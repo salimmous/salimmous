@@ -2,9 +2,8 @@
 
   <!-- Animated Header: Typing Effect (Make it grand!) -->
 <!-- Enhanced Animated Header -->
-  <a href="https://github.com/salimmous" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=F75023&width=800&lines=👋+Ahlan%2C+I'm+Salim+Moustanir!;🚀+Full-Stack+Mobile+%26+Web+Developer;🎨+Crafting+Intuitive+UI%2FUX;🧠+Passionate+Problem+Solver;🌍+Coding+with+Moroccan+Ingenuity!;✨+Let's+Build+Something+Remarkable!" alt="Typing SVG - Salim Moustanir Developer from Morocco" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Mobile+%26+Web+Developer;UI%2FUX+Enthusiast;Passionate+Coder;Proud+Moroccan+🇲🇦" alt="Typing SVG" />
+
 
   <!-- Compelling Tagline/Intro -->
   <p align="center">
