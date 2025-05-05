@@ -1,8 +1,9 @@
 <div align="center">
 
   <!-- Animated Header: Typing Effect (Make it grand!) -->
+<!-- Enhanced Animated Header -->
   <a href="https://github.com/salimmous" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=F75023&random=false&width=800&lines=👋+Ahlan%2C+I'm+Salim+Moustanir+!;Full-Stack+%F0%9F%A7%AD+Mobile+%26+Web+Developer;Crafting+%F0%9F%A7%A9+Intuitive+UI%2FUX;Passionate+%F0%9F%9A%80+Problem+Solver;Vibe+Coding+from+%F0%9F%87%B2%F0%9F%87%A6+Morocco!;Let's+Connect+and+Build+Something+Remarkable!%E2%9C%A8" alt="Typing SVG - Salim Moustanir Developer from Morocco" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=F75023&width=800&lines=👋+Ahlan%2C+I'm+Salim+Moustanir!;🚀+Full-Stack+Mobile+%26+Web+Developer;🎨+Crafting+Intuitive+UI%2FUX;🧠+Passionate+Problem+Solver;🌍+Coding+with+Moroccan+Ingenuity!;✨+Let's+Build+Something+Remarkable!" alt="Typing SVG - Salim Moustanir Developer from Morocco" />
   </a>
 
   <!-- Compelling Tagline/Intro -->
