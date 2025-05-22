@@ -25,7 +25,7 @@
     </a>
        <!-- Added more space -->
      <!-- Direct Email Badge/Button -->
-    <a href="mailto:youremail@example.com" rel="noopener noreferrer" style="text-decoration: none;"> <!-- REMEMBER TO REPLACE WITH YOUR ACTUAL EMAIL -->
+    <a href="mailto:salim.moustanir@gmail.com" rel="noopener noreferrer" style="text-decoration: none;"> <!-- REMEMBER TO REPLACE WITH YOUR ACTUAL EMAIL -->
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email to Salim Moustanir"/>
     </a>
     <!-- Add more relevant social/contact links here with similar style -->
