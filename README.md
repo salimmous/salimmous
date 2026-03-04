@@ -1,161 +1,136 @@
+<!-- Header Section -->
 <div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Vibe Coding Aesthetic" width="100%" style="border-radius: 15px; margin-bottom: 20px;" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060606,100:060606&height=1"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Mobile+%26+Web;UI%2FUX+Enthusiast;Vibe+Coder+⚡;Proud+Moroccan+🇲🇦" alt="Typing SVG" />
+  
+  <br>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  // github.com/salimmous                          vibe = true  🇲🇦  ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+  > *Bridging the gap between elegant design and robust functionality to build impactful digital products with Moroccan ingenuity.* ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=2400&pause=900&color=F7DF1E&center=true&vCenter=true&width=520&lines=const+role+%3D+'Full-Stack+Developer';const+stack+%3D+%5B'Flutter'%2C+'React'%2C+'Node.js'%5D;const+origin+%3D+'Casablanca%2C+Morocco+%F0%9F%87%B2%F0%9F%87%A6';const+vibe+%3D+true%3B+%2F%2F+always" alt="Typing SVG" />
+  <br>
 
-<br/>
-
-# SALIM MOUSTANIR
-
-`Full-Stack Developer` · `UI/UX Artisan` · `Vibe Coder`
-
-<br/>
-
-[![](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=F7DF1E)](https://twitter.com/moustanirsalim)
-[![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F7DF1E)](https://linkedin.com/in/salimmoustanir)
-[![](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=F7DF1E)](https://instagram.com/salimmous1)
-[![](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F7DF1E)](mailto:salim.moustanir@gmail.com)
-[![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=F7DF1E)](https://salimmous.github.io)
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Available_for_work-00ff94?style=flat-square&labelColor=000000)
-&nbsp;
-![Location](https://img.shields.io/badge/Location-Morocco_🇲🇦-F7DF1E?style=flat-square&labelColor=000000)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=salimmous&color=F7DF1E&style=flat-square&label=views)](https://github.com/salimmous)
-
+  <!-- Social & Contact Badges (Modernized) -->
+  <a href="https://twitter.com/moustanirsalim" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/salimmoustanir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/salimmous1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:salim.moustanir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
----
-
-## `> whoami`
-
-```typescript
-const salim: Developer = {
-  name:      "Salim Moustanir",
-  origin:    "Casablanca, Morocco 🇲🇦",
-  role:      "Full-Stack Mobile & Web Developer",
-  focus:     ["Mobile Apps", "Web Platforms", "Design Systems"],
-  currently: "Shipping products that feel alive ⚡",
-  vibe:      true,  // always
-};
-```
-
-> Building things that feel as good as they look —
-> Mobile-first, design-obsessed, always shipping.
+<br>
 
 ---
 
-## `> ls ./stack`
+## 👨‍💻 About Me | Salim Moustanir
+
+I am a highly motivated and creative **Full-Stack Mobile & Web Developer** and **UI/UX Enthusiast** proudly based in **Morocco 🇲🇦**. My mission is to architect and build seamless digital experiences that not only meet functional requirements but also delight users through thoughtful design.
+
+The core of my approach is **"Vibe Coding"** – infusing projects with positive energy, creativity, and a commitment to excellence. 
+
+* **📱 Cross-Platform Mobile:** Crafting high-performance iOS and Android apps using **Flutter** and **React Native**.
+* **🌐 Modern Web Frontend:** Building dynamic, scalable UI with **React**, **Vue.js**, **JS**, and **TS**.
+* **⚙️ Backend & Cloud:** Robust server logic and cloud architecture with **AWS**, **Azure**, and **Firebase**.
+* **🎨 UI/UX Design:** From **Figma** wireframes to pixel-perfect implementations.
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-
-**`// Mobile`**
-
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=00c2ff)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Swift](https://img.shields.io/badge/Swift-000?style=for-the-badge&logo=swift&logoColor=FA7343)
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=00ff94)
-
-**`// Web`**
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**`// Backend & Cloud`**
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)
-
-**`// Design & Tools`**
-
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-000?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
-![Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05033)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
-
+  <p><strong>Languages & Core</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,swift,html,css" alt="Languages" />
+  </a>
+  
+  <br><br>
+  
+  <p><strong>Mobile & Web Frameworks</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,android,apple,vue,nodejs" alt="Frameworks" />
+  </a>
+  
+  <br><br>
+  
+  <p><strong>Cloud, Tools & Design</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,firebase,git,docker,figma,illustrator,xd" alt="Tools" />
+  </a>
 </div>
 
+<br>
+
 ---
 
-## `> git log --stats`
+## 🚀 Signature Projects
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=salimmous&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=060606&title_color=F7DF1E&icon_color=00ff94&text_color=f0ede6&ring_color=F7DF1E"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimmous&layout=compact&hide=scss,html,css&hide_border=true&bg_color=060606&title_color=F7DF1E&text_color=f0ede6"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salimmous&hide_border=true&background=060606&ring=F7DF1E&fire=ff2d7a&currStreakLabel=F7DF1E&sideLabels=888&dates=444"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=salimmous&no-frame=true&margin-w=10&theme=darkhub&column=6"/>
-
+  <!-- Pinned Repos with TokyoNight Theme -->
+  <a href="https://github.com/salimmous/your-showcase-mobile-app-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salimmous&repo=your-showcase-mobile-app-repo&theme=tokyonight&show_owner=true&hide_border=true" alt="Mobile Project" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/salimmous/your-innovative-web-platform-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salimmous&repo=your-innovative-web-platform-repo&theme=tokyonight&show_owner=true&hide_border=true" alt="Web Project" />
+  </a>
 </div>
 
+<br>
+
 ---
 
-## `> ls ./projects`
+## 📊 Vibe Coding Stats
 
 <div align="center">
+  <!-- GitHub Stats & Top Languages -->
+  <a href="https://github.com/salimmous">
+    <img src="https://github-readme-stats.vercel.app/api?username=salimmous&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/salimmous">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimmous&theme=tokyonight&layout=compact&hide=scss,html,css&hide_border=true" alt="Top Languages" />
+  </a>
+  
+  <br><br>
 
-<a href="https://github.com/salimmous/your-showcase-mobile-app-repo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=salimmous&repo=your-showcase-mobile-app-repo&hide_border=true&bg_color=060606&title_color=F7DF1E&icon_color=00ff94&text_color=f0ede6"/>
-</a>
-<a href="https://github.com/salimmous/your-innovative-web-platform-repo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=salimmous&repo=your-innovative-web-platform-repo&hide_border=true&bg_color=060606&title_color=F7DF1E&icon_color=00ff94&text_color=f0ede6"/>
-</a>
-
+  <!-- GitHub Streak -->
+  <a href="https://github.com/salimmous">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimmous&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
+<br>
+
+<!-- 🐍 GitHub Contribution Snake (Uncomment once GitHub Action is set up!) -->
+<!--
+<div align="center">
+  <h3>🐍 My Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimmous/salimmous/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salimmous/salimmous/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salimmous/salimmous/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+-->
+
+<br>
+
 ---
 
-## `> cat philosophy.md`
-
-```
-Code isn't just logic —
-it's an energy you send into the world.
-Every pixel, every function, every commit
-should hit different.
-
-                              — vibe coding manifesto
-```
-
----
-
-## `> open --collab`
+## 👋 Let's Forge the Future!
 
 <div align="center">
+  <p>Deeply passionate about pushing the boundaries of technology and design. If you have an exciting project idea, potential collaboration, or just want to talk tech, let's connect!</p>
 
-Got a project that needs to **hit different**?<br/>
-I'm open to collaborations, freelance work, and exciting ideas.
-
-<br/>
-
-[![Follow](https://img.shields.io/github/followers/salimmous?label=Follow+on+GitHub&style=social)](https://github.com/salimmous)
-&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/twitter/follow/moustanirsalim?label=Follow+on+Twitter&style=social)](https://twitter.com/intent/follow?screen_name=moustanirsalim)
-
-<br/><br/>
-
-```
-salimmous · Made in Morocco 🇲🇦 · vibe = true · 2025
-```
-
+  <a href="https://github.com/salimmous">
+    <img src="https://img.shields.io/github/followers/salimmous?label=Follow%20Me&style=social" alt="Follow GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=salimmous&label=Profile%20Views&color=00F0FF&style=flat" alt="Profile Views" />
 </div>
