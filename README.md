@@ -67,61 +67,7 @@ The core of my approach is **"Vibe Coding"** – infusing projects with positive
 
 <br>
 
----
 
-## 🚀 Signature Projects
-
-<div align="center">
-  <!-- Pinned Repos with TokyoNight Theme -->
-  <a href="https://github.com/salimmous/your-showcase-mobile-app-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salimmous&repo=your-showcase-mobile-app-repo&theme=tokyonight&show_owner=true&hide_border=true" alt="Mobile Project" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/salimmous/your-innovative-web-platform-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salimmous&repo=your-innovative-web-platform-repo&theme=tokyonight&show_owner=true&hide_border=true" alt="Web Project" />
-  </a>
-</div>
-
-<br>
-
----
-
-## 📊 Vibe Coding Stats
-
-<div align="center">
-  <!-- GitHub Stats & Top Languages -->
-  <a href="https://github.com/salimmous">
-    <img src="https://github-readme-stats.vercel.app/api?username=salimmous&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/salimmous">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salimmous&theme=tokyonight&layout=compact&hide=scss,html,css&hide_border=true" alt="Top Languages" />
-  </a>
-  
-  <br><br>
-
-  <!-- GitHub Streak -->
-  <a href="https://github.com/salimmous">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salimmous&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
-<!-- 🐍 GitHub Contribution Snake (Uncomment once GitHub Action is set up!) -->
-<!--
-<div align="center">
-  <h3>🐍 My Contribution Graph</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimmous/salimmous/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salimmous/salimmous/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salimmous/salimmous/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
--->
-
-<br>
-
----
 
 ## 👋 Let's Forge the Future!
 
