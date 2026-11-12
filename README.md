@@ -1,76 +1,42 @@
-<div align="center">
-
 # Salim Moustanir
 
-### AI Product Engineer • Full-Stack Developer • Product Builder
+Full-Stack Web Developer based in Cologne, Germany. Over 5 years building production web applications, e-commerce integrations, and multi-tenant SaaS platforms with PHP, Laravel, React, TypeScript, and MySQL.
 
-Building AI-powered products that turn ideas into real-world tools.
+Currently developing internal customer management, support, and workflow automation systems at Haustechnik Lai&Men UG in Cologne, using Claude Code, Cursor, n8n, and Make in daily delivery. Immediately available for full-stack and backend engineering roles in Germany or remote across Europe.
 
-<p>
-<a href="https://twitter.com/moustanirsalim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://linkedin.com/in/salimmoustanir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/salimmous1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:salim.moustanir@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://sawtt.com"><img src="https://img.shields.io/badge/Website-sawtt.com-111111?style=for-the-badge"/></a>
-</p>
+Portfolio: https://salimmous.github.io
 
-</div>
+## Production Systems & Open Source
 
----
+### RaqmiCash
+FinTech POS and digital wallet platform built from initial architecture to live production as Founder and Lead Developer at SAWTT in Casablanca, working directly with the project CEO. Processes over 10,000 transactions per day with CMI payment gateway integration. Built with Laravel, React, TypeScript, and MySQL. Repository: https://github.com/salimmous/RaqmiCash-Showcase
 
-## About
+### Insurio
+Multi-tenant SaaS CRM for insurance brokers covering client records, policy tracking, and automated commission billing. Running in production across more than 45 independent insurance agencies. Built with Laravel, Livewire, and MySQL.
 
-I'm a self-taught AI Product Engineer and Full-Stack Developer from Morocco, based in Cologne, Germany.
+### Nation Sportive Coaching Platform
+Member coaching web application built in React for Nation Sportive (City Club, Unique Fitness, UFC GYM), deployed across more than 30 fitness clubs serving around 200,000 members, alongside responsive brand websites.
 
-I build software that takes complex AI systems and turns them into products that feel simple, fast, and useful. I like starting things from zero, testing new tech early, and shipping tools that solve real problems.
+### Shopify Carrier Sync
+Event-driven webhook integration connecting Shopify stores with shipping carriers Ameex, Cathedis, and Sendit. Synchronizes more than 500 orders per day in real time without manual intervention using Laravel, REST APIs, Webhooks, and MySQL.
 
----
+### Clipboard Manager (macOS)
+Native macOS clipboard manager built in Swift with automatic update delivery. Live at https://clipboardgenius.app and source at https://github.com/salimmous/clipboard-manager
 
-## Featured Projects
+## Recognition
 
-### ⚡ [Aether Code](https://github.com/salimmous/Aether-Code)
-An AI coding environment that combines an editor, a terminal, AI assistants, and NVIDIA-hosted inference in one workflow.
+Finalist (Top 5 of 65 teams) at Cursor Hackathon Heilbronn, March 2026.
 
-**Stack:** `TypeScript` `React` `Node.js` · [Demo](DEMO_LINK)
+## Core Stack
 
-<!-- <img src="screenshot.png" width="700"/> -->
+- Backend: PHP, Laravel, Livewire, Node.js, REST APIs, Webhooks
+- Frontend: TypeScript, JavaScript, React, Next.js, HTML, CSS
+- Databases & E-Commerce: MySQL, Supabase, Firebase, WordPress, WooCommerce, Shopify integrations
+- AI & Automation: Claude Code, Cursor, Claude API, GitHub Copilot, n8n, Make
 
-### 🌐 Social World Simulator
-Predict the internet before you publish. An AI platform that simulates how an audience will react to content before it goes live, using AI personas and predictive analytics.
+## Contact
 
-**Stack:** `...` · [Repo](REPO_LINK) · [Demo](DEMO_LINK)
-
-### 📋 [Clipboard Manager](https://github.com/salimmous/clipboard-manager)
-A macOS clipboard manager with automatic updates, written in Swift.
-
----
-
-## Currently Working On
-
-- Multi-agent systems and LLM applications
-- Developer tools powered by AI
-- Product design for AI-first apps
-
----
-
-## Tech Stack
-
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=js,ts,python,php,swift,html,css"/></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind"/></p>
-
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase"/></p>
-
-**Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github"/></p>
-
-**Design**
-<p><img src="https://skillicons.dev/icons?i=figma,illustrator,xd"/></p>
-
----
-
-> Great products aren't built by adding more features.
-> They're built by removing friction.
+- Location: Cologne, Germany
+- Portfolio: https://salimmous.github.io
+- LinkedIn: https://www.linkedin.com/in/salimmoustanir
+- Email: salim.moustanir@gmail.com
